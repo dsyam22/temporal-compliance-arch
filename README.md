@@ -82,5 +82,4 @@ the terms for your edition before publishing numbers you measure.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
-"# temporal-compliance-arch" 
+MIT. See [LICENSE](LICENSE). 
