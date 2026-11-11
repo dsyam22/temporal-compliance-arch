@@ -2,7 +2,7 @@
 
 SQL Server scripts that accompany the paper
 **"Examination Time: A Temporal Data Architecture for Multi-Jurisdictional Regulatory Reporting"**
-(Syam Sajit Dondapati, under review).
+(Syam Sajit Dondapati, submitted to SIGMOD 2027 Industry Track).
 
 The scripts implement a regulatory calendar that binds each examination date to a
 frozen transaction-time cutoff, an as-of resolution procedure over a system-versioned
